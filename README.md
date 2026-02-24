@@ -18,6 +18,8 @@
   </table>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHytalo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+
 ### 📊 ESTATÍSTICAS DE COMBATE (COMMIT STATS)
 *Os pontos de status aumentam conforme você comita.*
 
