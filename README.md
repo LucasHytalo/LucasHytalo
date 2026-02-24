@@ -1,5 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=rect&height=110&color=ba00c5&text=ERGA-SE&section=header&reversal=true&fontColor=0070ff)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasHytalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasHytalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasHytalo&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasHytalo&theme=tokyonight) | [![](https://streak-stats.demolab.com?user=LucasHytalo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)]
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasHytalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasHytalo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasHytalo&theme=tokyonight&utcOffset=8)
+| :-: | :-: | :-: | 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasHytalo&theme=tokyonight)
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasHytalo&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=LucasHytalo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasHytalo&theme=tokyonight)
+| :-: | :-: | :-: | 
