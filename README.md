@@ -18,14 +18,12 @@
   </table>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHytalo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasHytalo&theme=tokyonight&hide_border=true&border_radius=0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=300&card_height=170" alt="GitHub Streak" /></a>
 
 ### 📊 ESTATÍSTICAS DE COMBATE (COMMIT STATS)
 *Os pontos de status aumentam conforme você comita.*
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/LucasHytalo?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FSao_Paulo" />
-  </p>
+<p align="center"><img src="https://metrics.lecoq.io/LucasHytalo?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FSao_Paulo" /></p>
 
 ---
 
