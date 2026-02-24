@@ -1,6 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://capsule-render.vercel.app/api?type=rect&height=110&color=ba00c5&text=ERGA-SE&section=header&reversal=true&fontColor=0070ff
 
 # ⚡ STATUS WINDOW: LucasHytalo
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasHytalo&theme=tokyonight) | 
 
 <div align="center">
   <img src="https://media.giphy.com" width="100%" />
