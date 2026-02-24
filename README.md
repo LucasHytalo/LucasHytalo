@@ -23,7 +23,7 @@
 ### 📊 ESTATÍSTICAS DE COMBATE (COMMIT STATS)
 *Os pontos de status aumentam conforme você comita.*
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasHytalo&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats-one-eight.vercel.app/api?username=LucasHytalo&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
