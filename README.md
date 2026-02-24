@@ -5,3 +5,6 @@
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasHytalo&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=LucasHytalo&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 | :-: | :-: | 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
