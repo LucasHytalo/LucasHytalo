@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=410075&height=120&section=header"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LucasHytalo&theme=tokyonight&show_icons=true&hide_border=true" width="300" />
-
 <div align="center">
 <a href="https://readme-typing-svg.herokuapp.com/demo/">
     <img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=ERGA-SE;Comandante+Vermelho-Sangue+Igris;Beru+Rei+Formiga"/>
@@ -9,7 +7,7 @@
 
 <table align="center">
     <tr>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasHytalo&theme=tokyonight&hide_border=true" width="300" /></td>
+        <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasHytalo&show_icons=true&theme=tokyonight&hide_border=true" width="300" /></td>
         <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasHytalo&theme=tokyonight&hide_border=true" width="300" /></td>
         <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasHytalo&theme=tokyonight&utcOffset=8&hide_border=true" width="300" /></td>
     </tr>
