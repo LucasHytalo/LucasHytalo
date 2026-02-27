@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=410075&height=120&section=header"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=LucasHytalo&theme=tokyonight&show_icons=true&hide_border=true" width="300" />
+
 <div align="center">
 <a href="https://readme-typing-svg.herokuapp.com/demo/">
     <img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=ERGA-SE;Comandante+Vermelho-Sangue+Igris;Beru+Rei+Formiga"/>
