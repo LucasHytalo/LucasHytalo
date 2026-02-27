@@ -7,7 +7,7 @@
 
 <table align="center">
     <tr>
-        <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasHytalo&show_icons=true&theme=tokyonight&hide_border=true" width="300" /></td>
+        <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasHytalo&show_icons=true&theme=tokyonight&hide_border=true" width="400" /></td>
         <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasHytalo&theme=tokyonight&hide_border=true" width="300" /></td>
         <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasHytalo&theme=tokyonight&utcOffset=8&hide_border=true" width="300" /></td>
     </tr>
